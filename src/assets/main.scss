@@ -782,8 +782,10 @@ Instructions:
         }
       }
     }
-
+    
     & .gir-home__contact-text {
+      @include styled-link();
+
       position: absolute;
       top: 0;
       right: 0;
@@ -803,6 +805,7 @@ Instructions:
       ul + h1 {
         margin-top: 85px;
       }
+
 
       & hr {
         position: relative;
