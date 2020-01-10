@@ -932,6 +932,10 @@ Instructions:
             background: white;
           }
         }
+
+        & img {
+          max-width: 100%;
+        }
       }
     }
 
