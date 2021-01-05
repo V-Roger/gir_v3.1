@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cheet.js": "^0.3.3",
     "marked": "^0.6.2",
     "node-sass": "^4.12.0",
